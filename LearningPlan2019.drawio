@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T07:47:08.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="Jcr94wAlGOQt-FzrB3NK" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-17T07:47:37.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="GNGUgstyQ7RnvOOLhh2M" version="12.4.2" type="github" pages="1">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="-33" y="587.5" width="100" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-10" value="&lt;span&gt;SpringBoot Master Class&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="10" y="420" width="170" height="50" as="geometry"/>
+          <mxGeometry x="-76" y="350" width="170" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-11" value="&lt;span&gt;AWS White Paper&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="530" y="380" width="130" height="20" as="geometry"/>
