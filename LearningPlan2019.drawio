@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T08:58:22.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="l8Ct5Ft0rpfX_dWNi8aQ" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-20T09:02:01.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="Q0Nj4xBSbwNKa2XDIJhB" version="12.4.3" type="github" pages="1">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -25,11 +25,11 @@
         <mxCell id="2c924340bb9dbf6c-11" value="&lt;span&gt;AWS White Paper&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="867" y="389" width="130" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-14" value="&lt;span&gt;ED Dolphin CSA Pro Training&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-14" value="&lt;span&gt;ED Dolphin &lt;br&gt;CSA Pro Training&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1228" y="253" width="150" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-15" value="&lt;span&gt;Zeal Vora AWS CSA PRO Training&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1296" y="456" width="130" height="40" as="geometry"/>
+        <mxCell id="2c924340bb9dbf6c-15" value="&lt;span&gt;Zeal Vora &lt;br&gt;AWS CSA PRO Training&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="1296" y="456" width="131" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-19" value="AWS Lambda&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1256" y="755" width="100" height="20" as="geometry"/>
@@ -168,8 +168,8 @@
             <mxPoint x="1512" y="476" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="utK8YzHkomSW0VGDoDWM-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Disaster Recover&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="125" width="93" height="18" as="geometry"/>
+        <mxCell id="utK8YzHkomSW0VGDoDWM-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Business Continuity&amp;nbsp;&lt;br&gt;Disaster Recover&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="117" width="113" height="31" as="geometry"/>
         </mxCell>
         <mxCell id="utK8YzHkomSW0VGDoDWM-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="2c924340bb9dbf6c-14" target="utK8YzHkomSW0VGDoDWM-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
