@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T01:52:59.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="Wp7IsuKHWbC872SgU3q8" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-20T07:05:44.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="rSdeg9ED9pKjBIlJIWPs" version="12.4.3" type="github" pages="1">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -150,13 +150,22 @@
             <mxPoint x="1158.2881355932204" y="821" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUx92tICWYFmlGeN_mxr-1" value="&lt;span&gt;Serverless CI/CD&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="JUx92tICWYFmlGeN_mxr-1" value="&lt;span&gt;Serverless CI/CD&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1302" y="690" width="135" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="JUx92tICWYFmlGeN_mxr-2" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="2c924340bb9dbf6c-3" target="JUx92tICWYFmlGeN_mxr-1">
+        <mxCell id="JUx92tICWYFmlGeN_mxr-2" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="2c924340bb9dbf6c-3" target="JUx92tICWYFmlGeN_mxr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1024" y="535" as="sourcePoint"/>
             <mxPoint x="1321" y="739" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="utK8YzHkomSW0VGDoDWM-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Domain 1 - &lt;br&gt;Design for Organizational Complexity&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1446" y="368" width="208" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="utK8YzHkomSW0VGDoDWM-2" value="" style="endArrow=classic;html=1;entryX=0.364;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2c924340bb9dbf6c-15" target="utK8YzHkomSW0VGDoDWM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1462" y="526" as="sourcePoint"/>
+            <mxPoint x="1512" y="476" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
