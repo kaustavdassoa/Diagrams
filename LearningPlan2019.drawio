@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T14:09:27.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zN2_bf_Wkh5lSIRBAPS5" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T14:13:34.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="vSw-zgBCPTqMlwzn_w17" version="12.4.7" type="github">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -268,6 +268,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="562" y="1268" as="sourcePoint"/>
             <mxPoint x="612" y="1218" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iq47JH9IOjm5TBPFm13r-3" value="&lt;span&gt;Git&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="1030" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="iq47JH9IOjm5TBPFm13r-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="UUau7E6U5k5TTlxpQxdi-11" target="iq47JH9IOjm5TBPFm13r-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="962" as="sourcePoint"/>
+            <mxPoint x="141" y="912" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
