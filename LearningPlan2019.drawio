@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-02T14:27:48.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xrma45TyGS8FmBPW3W-8" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-02T14:28:33.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="RZ16_0z-68PS5m7Wq7rm" version="12.4.8" type="github">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -279,13 +279,13 @@
             <mxPoint x="141" y="912" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e3at0sxz_broB0n3_vnu-1" value="&lt;span&gt;Strategy&amp;nbsp;Pattern&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="e3at0sxz_broB0n3_vnu-1" value="&lt;span&gt;Strategy&amp;nbsp;Pattern&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="179" y="499" width="110" height="16" as="geometry"/>
         </mxCell>
-        <mxCell id="e3at0sxz_broB0n3_vnu-2" value="&lt;span&gt;Decorator&amp;nbsp;&lt;/span&gt;Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="e3at0sxz_broB0n3_vnu-2" value="&lt;span&gt;Decorator&amp;nbsp;&lt;/span&gt;Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="99" y="450" width="110" height="16" as="geometry"/>
         </mxCell>
-        <mxCell id="e3at0sxz_broB0n3_vnu-3" value="&lt;span&gt;Observer&amp;nbsp;&lt;/span&gt;Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="e3at0sxz_broB0n3_vnu-3" value="&lt;span&gt;Observer&amp;nbsp;&lt;/span&gt;Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="127" y="476" width="110" height="16" as="geometry"/>
         </mxCell>
         <mxCell id="e3at0sxz_broB0n3_vnu-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="NlIUjC8G3_FUQfrN99u6-21" target="e3at0sxz_broB0n3_vnu-1">
