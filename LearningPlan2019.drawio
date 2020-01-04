@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T05:41:10.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1vwtHTsnexXebnQcLbne" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T05:41:30.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ja6pRfNKlvz9xTi_rGYK" version="12.4.8" type="github">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
         <mxCell id="qTr_m5463PESpSAJxUWb-6" value="Serverless Transcoder demo" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1127" y="743" width="200" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qTr_m5463PESpSAJxUWb-8" value="Cloud Migration" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="qTr_m5463PESpSAJxUWb-8" value="Cloud Migration" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="495" width="117" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="qTr_m5463PESpSAJxUWb-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="2c924340bb9dbf6c-11" target="qTr_m5463PESpSAJxUWb-8">
