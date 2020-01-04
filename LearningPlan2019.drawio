@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T05:25:57.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="mFdJDOBiV89XmHFI8E8N" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T05:29:02.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="W041EQ62OhTf8zjynwZr" version="12.4.8" type="github">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1182" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aUbg2GQfj_RAobpnSpw4-1" value="Learning Plan For 2020" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=75;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="219" y="-133" width="835" height="94" as="geometry"/>
+          <mxGeometry x="338" y="-318" width="835" height="94" as="geometry"/>
         </mxCell>
         <mxCell id="aUbg2GQfj_RAobpnSpw4-2" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="2c924340bb9dbf6c-4" target="aUbg2GQfj_RAobpnSpw4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUx92tICWYFmlGeN_mxr-1" value="&lt;span&gt;Serverless CI/CD&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1187" y="738" width="135" height="20" as="geometry"/>
+          <mxGeometry x="1217" y="713" width="135" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="JUx92tICWYFmlGeN_mxr-2" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="2c924340bb9dbf6c-3" target="JUx92tICWYFmlGeN_mxr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -321,8 +321,8 @@
             <mxPoint x="396" y="333" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTr_m5463PESpSAJxUWb-6" value="Acloud Guru Transcoder demo" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1146" y="844" width="200" height="20" as="geometry"/>
+        <mxCell id="qTr_m5463PESpSAJxUWb-6" value="Serverless Transcoder demo" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="743" width="200" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
