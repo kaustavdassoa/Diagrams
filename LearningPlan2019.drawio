@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T02:40:05.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="-BxtvVG75c76Ss9Pbeec" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T02:46:18.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="OVnFVseciGDAstRrVwvV" version="12.8.8" type="github">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1438" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qTr_m5463PESpSAJxUWb-5" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=0.05;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qTr_m5463PESpSAJxUWb-11" target="qTr_m5463PESpSAJxUWb-6" edge="1">
+        <mxCell id="qTr_m5463PESpSAJxUWb-5" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="qTr_m5463PESpSAJxUWb-11" target="qTr_m5463PESpSAJxUWb-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1604.5" y="886" as="sourcePoint" />
             <mxPoint x="1771.7091121495328" y="1022" as="targetPoint" />
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUx92tICWYFmlGeN_mxr-1" value="&lt;span&gt;Serverless CI/CD&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1758.5" y="1016" width="135" height="20" as="geometry" />
+          <mxGeometry x="1211" y="958" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JUx92tICWYFmlGeN_mxr-2" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" source="qTr_m5463PESpSAJxUWb-11" target="JUx92tICWYFmlGeN_mxr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -325,7 +325,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qTr_m5463PESpSAJxUWb-6" value="Serverless Transcoder demo" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1682.5" y="1041" width="200" height="20" as="geometry" />
+          <mxGeometry x="1724" y="1048" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qTr_m5463PESpSAJxUWb-8" value="Cloud Migration" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="541" y="373" width="117" height="20" as="geometry" />
