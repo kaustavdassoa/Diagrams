@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T10:24:32.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="cN6XrA_XECrI8gpbWIIC" version="12.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-22T12:04:12.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="HSgxUQI8OomURHlGia5d" version="12.8.8" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1438" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_o2WTMyAMD4GtITc4keL" name="Detailed-Planned">
-    <mxGraphModel dx="2476" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2476" dy="1568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="L0W3bq14MgRanAaTCOmI-0" />
         <mxCell id="L0W3bq14MgRanAaTCOmI-1" parent="L0W3bq14MgRanAaTCOmI-0" />
