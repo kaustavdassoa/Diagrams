@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T02:47:12.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="_20mZMuGO392rhAsYhiW" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T02:50:36.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="RjtNNzuxHz21Yh9Yr5fa" version="12.8.8" type="github">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1438" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="iq47JH9IOjm5TBPFm13r-1" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 13px ; white-space: normal&quot;&gt;RPA Developer Foundation Training&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="557" y="1520" width="231" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="iq47JH9IOjm5TBPFm13r-2" value="" style="endArrow=classic;html=1;" parent="1" source="aUbg2GQfj_RAobpnSpw4-3" target="iq47JH9IOjm5TBPFm13r-1" edge="1">
+        <mxCell id="iq47JH9IOjm5TBPFm13r-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="aUbg2GQfj_RAobpnSpw4-3" target="iq47JH9IOjm5TBPFm13r-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="562" y="1268" as="sourcePoint" />
             <mxPoint x="1019" y="1183" as="targetPoint" />
