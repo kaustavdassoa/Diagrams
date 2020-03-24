@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T00:25:44.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="FDtTcEdTFj5gIuRH8YBz" version="12.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-24T00:27:14.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="9rFz7B58_wHPKc8z-RBK" version="12.8.8" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1438" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1127,7 +1127,7 @@
           <mxGeometry x="2128" y="-148" width="141" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kEwAAm5VTS9ePiOnmAQE-6" value="AWS System Manager&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
-          <mxGeometry x="2160" y="-115" width="155" height="20" as="geometry" />
+          <mxGeometry x="2169" y="-120" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kEwAAm5VTS9ePiOnmAQE-7" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-85" target="kEwAAm5VTS9ePiOnmAQE-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1145,6 +1145,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2030" y="168" as="sourcePoint" />
             <mxPoint x="2080" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEwAAm5VTS9ePiOnmAQE-11" value="Parameter Store" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+          <mxGeometry x="2195" y="-85" width="155" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEwAAm5VTS9ePiOnmAQE-12" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-85" target="kEwAAm5VTS9ePiOnmAQE-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2094" y="118" as="sourcePoint" />
+            <mxPoint x="2144" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
