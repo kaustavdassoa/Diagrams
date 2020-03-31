@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T23:08:36.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="R-4yFA1QBEqnTPu6zEUY" version="12.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-31T23:19:52.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="g0onO8ZSUtmM-WkUasg9" version="12.9.3" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="1438" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,11 +513,20 @@
             <mxPoint x="194" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BZJ_ktvmMB8MqSgkYZ8J-2" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Designing&amp;nbsp;Complex Organization and Hybrid Architecture&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="152" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BZJ_ktvmMB8MqSgkYZ8J-3" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="2c924340bb9dbf6c-14" target="BZJ_ktvmMB8MqSgkYZ8J-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1875" y="344" as="sourcePoint" />
+            <mxPoint x="1925" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_o2WTMyAMD4GtITc4keL" name="Detailed-Planned">
-    <mxGraphModel dx="1438" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="917" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="L0W3bq14MgRanAaTCOmI-0" />
         <mxCell id="L0W3bq14MgRanAaTCOmI-1" parent="L0W3bq14MgRanAaTCOmI-0" />
@@ -1163,6 +1172,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2094" y="118" as="sourcePoint" />
             <mxPoint x="2144" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQMdRKPS7Z2uo5J6EIpJ-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Designing&amp;nbsp;Complex Organization and Hybrid Architecture&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+          <mxGeometry x="1700" y="152" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQMdRKPS7Z2uo5J6EIpJ-1" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-10" target="HQMdRKPS7Z2uo5J6EIpJ-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1794" y="512" as="sourcePoint" />
+            <mxPoint x="1844" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
