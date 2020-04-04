@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T01:55:46.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="5jttFLu_G-D66-KwzaF6" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-04T02:47:03.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Lvy6gsB5SDEKDv78xobd" version="12.9.6" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="4952" dy="2336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1199,7 +1199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g-KRJclnh8WCg0Pw7K9h-0" value="Direct Connect Gateway" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
-          <mxGeometry x="1939" y="-42" width="158.5" height="20" as="geometry" />
+          <mxGeometry x="1911" y="-40" width="158.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g-KRJclnh8WCg0Pw7K9h-1" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="HQMdRKPS7Z2uo5J6EIpJ-0" target="g-KRJclnh8WCg0Pw7K9h-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
