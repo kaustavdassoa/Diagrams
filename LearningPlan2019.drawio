@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-06T01:54:22.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="hwTA2MT2hJYwuYC7DY3o" version="12.9.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-07T02:20:09.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="CHD_Ke-nLISxW3PLq1oY" version="12.9.8" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1838" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -528,28 +528,28 @@
             <mxPoint x="1291" y="56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-1" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Elastic Load Balancer&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-1" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Elastic Load Balancer&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="908" y="34" width="169" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-1">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1056" y="181" as="sourcePoint" />
             <mxPoint x="1260" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Route53 - Domain Name Server&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Route53 - Domain Name Server&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="962" y="-10" width="169" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-5" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-3">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-5" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1218" y="156" as="sourcePoint" />
             <mxPoint x="1268" y="106" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-7" value="&lt;span style=&quot;font-size: 10px&quot;&gt;AWS Compute&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-7" value="&lt;span style=&quot;font-size: 10px&quot;&gt;AWS Compute&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1100" y="-49" width="109" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-8" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-7">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-8" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="105" as="sourcePoint" />
             <mxPoint x="1290" y="55" as="targetPoint" />
@@ -559,7 +559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_o2WTMyAMD4GtITc4keL" name="Detailed-Planned">
-    <mxGraphModel dx="4552" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="L0W3bq14MgRanAaTCOmI-0" />
         <mxCell id="L0W3bq14MgRanAaTCOmI-1" parent="L0W3bq14MgRanAaTCOmI-0" />
@@ -1270,22 +1270,31 @@
             <mxPoint x="1219" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Designing Network on AWS for&amp;nbsp;Complex Organization and Hybrid Architecture.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Designing Network on AWS for&amp;nbsp;Complex Organization and Hybrid Architecture.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="L0W3bq14MgRanAaTCOmI-1" vertex="1">
           <mxGeometry x="1018.5" y="36" width="212" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-1" value="DHCP Option Sets" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-1" value="DHCP Option Sets" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="L0W3bq14MgRanAaTCOmI-1" vertex="1">
           <mxGeometry x="1412" y="7" width="133" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="HQMdRKPS7Z2uo5J6EIpJ-0" target="Ueuqs4RNwZzwcDyVOYxI-1">
+        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="L0W3bq14MgRanAaTCOmI-1" source="HQMdRKPS7Z2uo5J6EIpJ-0" target="Ueuqs4RNwZzwcDyVOYxI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1119" y="89" as="sourcePoint" />
             <mxPoint x="1169" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-10" target="Ueuqs4RNwZzwcDyVOYxI-0">
+        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-10" target="Ueuqs4RNwZzwcDyVOYxI-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1169" y="214" as="sourcePoint" />
             <mxPoint x="1219" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9D0TGwLgf0Y04UxTxo4-0" value="ELB Refresher" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+          <mxGeometry x="1433" y="41" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I9D0TGwLgf0Y04UxTxo4-1" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="Ueuqs4RNwZzwcDyVOYxI-0" target="I9D0TGwLgf0Y04UxTxo4-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1243" y="140" as="sourcePoint" />
+            <mxPoint x="1293" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
