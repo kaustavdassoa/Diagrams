@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T03:09:39.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="PrNXZt2MewlsnNbkCtOk" version="12.9.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-11T03:10:44.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="rkZ0knmrlMoegusk1xK6" version="12.9.10" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1838" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1270,7 +1270,7 @@
             <mxPoint x="1219" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Designing Network on AWS for&amp;nbsp;Complex Organization and Hybrid Architecture.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="L0W3bq14MgRanAaTCOmI-1" vertex="1">
+        <mxCell id="Ueuqs4RNwZzwcDyVOYxI-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Designing Network on AWS for&amp;nbsp;Complex Organization and Hybrid Architecture.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="L0W3bq14MgRanAaTCOmI-1" vertex="1">
           <mxGeometry x="1018.5" y="36" width="212" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ueuqs4RNwZzwcDyVOYxI-1" value="DHCP Option Sets" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="L0W3bq14MgRanAaTCOmI-1" vertex="1">
@@ -1315,7 +1315,7 @@
             <mxPoint x="1359" y="283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ENycThRnqo9QeWsW4_XO-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Route53 - Domain Name Server and Content Delivery Network&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+        <mxCell id="ENycThRnqo9QeWsW4_XO-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Route53 - Domain Name Server and Content Delivery Network&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
           <mxGeometry x="1062" y="112" width="205" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ENycThRnqo9QeWsW4_XO-3" value="" style="endArrow=classic;html=1;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-10" target="ENycThRnqo9QeWsW4_XO-0">
