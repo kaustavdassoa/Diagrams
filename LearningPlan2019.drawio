@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T02:08:35.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="73GtmphnJHOJpW4d_lXe" version="12.9.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-12T03:42:20.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="wE-JUzFKDq1ATm0RfmsQ" version="12.9.10" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="4952" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,7 +537,7 @@
             <mxPoint x="1260" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Route53 - Domain Name Server and Content Delivery Network&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-3" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Route53 - Domain Name Server and Content Delivery Network&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="962" y="-10" width="169" height="32" as="geometry" />
         </mxCell>
         <mxCell id="_LHKmuvoDw8N2ljtgrfE-5" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-3" edge="1">
