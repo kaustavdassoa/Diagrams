@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T11:20:09.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="yNXD89FqTHp7h8z0of7d" version="12.9.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-13T12:52:41.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Uve1sGTGVdZRRHHhHew3" version="12.9.11" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1838" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -654,13 +654,31 @@
             <mxPoint x="1137" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D2R2LZ-VaSwtrLlh2igQ-3" value="&lt;span&gt;AWS Lambda and &lt;br&gt;Serverless Architecture Bootcamp&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="D2R2LZ-VaSwtrLlh2igQ-3" value="&lt;span&gt;AWS Lambda and &lt;br&gt;Serverless Architecture Bootcamp&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="970" y="1082" width="235.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="D2R2LZ-VaSwtrLlh2igQ-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="qTr_m5463PESpSAJxUWb-11" target="D2R2LZ-VaSwtrLlh2igQ-3">
+        <mxCell id="D2R2LZ-VaSwtrLlh2igQ-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="qTr_m5463PESpSAJxUWb-11" target="D2R2LZ-VaSwtrLlh2igQ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1124" y="965" as="sourcePoint" />
             <mxPoint x="1174" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USSplaGbPgRck2b7vtbF-1" value="Decomposition Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="400" width="148" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="USSplaGbPgRck2b7vtbF-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="vkdbx1qyMuLEtI5rxoIV-4" target="USSplaGbPgRck2b7vtbF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-114" y="519" as="sourcePoint" />
+            <mxPoint x="-64" y="469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USSplaGbPgRck2b7vtbF-3" value="Messaging Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-506" y="371" width="148" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="USSplaGbPgRck2b7vtbF-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="vkdbx1qyMuLEtI5rxoIV-4" target="USSplaGbPgRck2b7vtbF-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-195" y="500" as="sourcePoint" />
+            <mxPoint x="-119" y="473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
