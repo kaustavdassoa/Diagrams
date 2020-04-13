@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T13:07:04.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="q412zRxadC79GIaMMFIH" version="12.9.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-13T13:14:31.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="8orApbjaxm3-b6YybJvJ" version="12.9.11" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="5352" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -685,7 +685,7 @@
           <mxGeometry x="-823" y="435" width="160.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-6" value="By Business Capabilities&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="461" width="160.5" height="16" as="geometry" />
+          <mxGeometry x="-823" y="461" width="160.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-9" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="USSplaGbPgRck2b7vtbF-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -699,20 +699,14 @@
             <mxPoint x="-607" y="528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-11" value="Service Discovery" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-823" y="377" width="125" height="16" as="geometry" />
+        <mxCell id="USSplaGbPgRck2b7vtbF-11" value="Service Discovery" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-810.5" y="240.5" width="164.38" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-12" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-577" y="569" as="sourcePoint" />
-            <mxPoint x="-527" y="519" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="USSplaGbPgRck2b7vtbF-13" value="Sync Messaging" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-789" y="353" width="125" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-13" value="Sync Messaging" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-817" y="353" width="125" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-14" value="Async Messaging" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-817" y="329" width="145.75" height="16" as="geometry" />
+        <mxCell id="USSplaGbPgRck2b7vtbF-14" value="Async Messaging" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-799.375" y="329" width="145.75" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-15" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -726,17 +720,14 @@
             <mxPoint x="-510" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-17" value="Pub-Sub" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-805" y="307" width="160.5" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-19" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-17">
+        <mxCell id="USSplaGbPgRck2b7vtbF-19" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-505" y="353" as="sourcePoint" />
-            <mxPoint x="-455" y="303" as="targetPoint" />
+            <mxPoint x="-634" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-20" value="Broker Less Architecture&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-796.25" y="263" width="175" height="16" as="geometry" />
+        <mxCell id="USSplaGbPgRck2b7vtbF-20" value="Broker Less Architecture&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-814" y="263" width="175" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-21" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -744,13 +735,22 @@
             <mxPoint x="-503" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="USSplaGbPgRck2b7vtbF-22" value="Broker Based Architecture&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-802.5" y="284" width="175" height="16" as="geometry" />
+        <mxCell id="USSplaGbPgRck2b7vtbF-22" value="Broker Based Architecture&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-814" y="285" width="175" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-23" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-471" y="295" as="sourcePoint" />
             <mxPoint x="-421" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USSplaGbPgRck2b7vtbF-24" value="One-Way Notification" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-810.5" y="307" width="168" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="USSplaGbPgRck2b7vtbF-26" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-505" y="306" as="sourcePoint" />
+            <mxPoint x="-455" y="256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
