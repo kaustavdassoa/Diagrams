@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T13:14:31.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="8orApbjaxm3-b6YybJvJ" version="12.9.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-13T13:15:52.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Y5d31MxAhYJyAnX1bKeb" version="12.9.11" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="2238" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -700,13 +700,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-11" value="Service Discovery" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-810.5" y="240.5" width="164.38" height="16" as="geometry" />
+          <mxGeometry x="-813.38" y="240.5" width="164.38" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-13" value="Sync Messaging" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-789" y="353" width="125" height="16" as="geometry" />
+          <mxGeometry x="-802" y="353" width="153" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-14" value="Async Messaging" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-799.375" y="329" width="145.75" height="16" as="geometry" />
+          <mxGeometry x="-808.38" y="329" width="159.38" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-15" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -727,7 +727,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-20" value="Broker Less Architecture&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="263" width="175" height="16" as="geometry" />
+          <mxGeometry x="-821" y="263" width="172" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-21" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -736,7 +736,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-22" value="Broker Based Architecture&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="285" width="175" height="16" as="geometry" />
+          <mxGeometry x="-824" y="285" width="175" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-23" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -745,7 +745,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-24" value="One-Way Notification" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-810.5" y="307" width="168" height="16" as="geometry" />
+          <mxGeometry x="-820.5" y="307" width="171.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="USSplaGbPgRck2b7vtbF-26" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="USSplaGbPgRck2b7vtbF-3" target="USSplaGbPgRck2b7vtbF-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
