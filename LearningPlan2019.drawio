@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-19T01:45:23.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="HpS65au19z3Sbm3Fo-xM" version="12.9.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-19T01:45:39.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="PwaD41gRC1ejdF7ajeMx" version="12.9.14" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -583,7 +583,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjfEA7Rc_p5YXotIZAjH-10" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Analytic, Data Streaming and IOT&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1370.5" y="132" width="227.5" height="32" as="geometry" />
+          <mxGeometry x="1370.5" y="127" width="227.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tjfEA7Rc_p5YXotIZAjH-11" value="&lt;span style=&quot;font-size: 10px&quot;&gt;AWS Media Service&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1384" y="167.5" width="211" height="32" as="geometry" />
