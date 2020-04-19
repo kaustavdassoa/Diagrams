@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-19T00:33:21.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ORMqwQ7CLiPCRQkuno2r" version="12.9.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-19T00:33:54.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="OPWzduegifGqtLuol0-r" version="12.9.14" type="github" pages="2">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1637,6 +1637,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1751" y="-157" as="sourcePoint" />
             <mxPoint x="1801" y="-207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yCGhsS_lQ3T3mulcG_uB-0" value="&lt;span style=&quot;font-size: 10px&quot;&gt;AWS Data Storage option in AWS and -Premises&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="L0W3bq14MgRanAaTCOmI-1">
+          <mxGeometry x="1482.5" y="-200" width="185.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="yCGhsS_lQ3T3mulcG_uB-1" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="L0W3bq14MgRanAaTCOmI-1" source="L0W3bq14MgRanAaTCOmI-10" target="yCGhsS_lQ3T3mulcG_uB-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1296" y="-34" as="sourcePoint" />
+            <mxPoint x="1346" y="-84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
