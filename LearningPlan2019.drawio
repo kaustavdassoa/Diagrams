@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T00:12:27.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="-N7JqNgaoFNcWcM26ZUy" version="13.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-04-29T00:12:51.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="MT22ciXXeSgnquf9SZHp" version="13.0.2" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -983,10 +983,10 @@
             <mxPoint x="-1173" y="-133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rz7VuCBr-Khj1i3cgNat-5" value="AWS CloudFormation&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
+        <mxCell id="Rz7VuCBr-Khj1i3cgNat-5" value="AWS CloudFormation&amp;nbsp; Labs" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
           <mxGeometry x="-1140" y="1162" width="357" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Rz7VuCBr-Khj1i3cgNat-6" value="Serverless Application Development&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
+        <mxCell id="Rz7VuCBr-Khj1i3cgNat-6" value="Serverless Application Development Labs&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
           <mxGeometry x="-1140" y="850" width="357" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Rz7VuCBr-Khj1i3cgNat-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#B3B3B3;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qOT_ua5YANCtFLoSZ7II-1" source="Rz7VuCBr-Khj1i3cgNat-1" target="Rz7VuCBr-Khj1i3cgNat-6" edge="1">
