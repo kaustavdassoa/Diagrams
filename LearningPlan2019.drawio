@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T00:13:51.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="n-jZNSsdXzEeZXoem-9Z" version="13.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-04-29T01:04:12.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="mZxkOTJ5FRRaEyDXHdGi" version="13.0.2" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6152" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1442,19 +1442,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nJNNqr8P_pATI9RoZdzr" name="MicroService Design Patterns">
-    
     <mxGraphModel dx="1038" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      
       <root>
-        
         <mxCell id="Bz830oB2Gxy0PoIhxLD8-0" />
-        
         <mxCell id="Bz830oB2Gxy0PoIhxLD8-1" parent="Bz830oB2Gxy0PoIhxLD8-0" />
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram id="_o2WTMyAMD4GtITc4keL" name="Archive">
     <mxGraphModel dx="2638" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
