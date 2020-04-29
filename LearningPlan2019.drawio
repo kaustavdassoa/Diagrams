@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T00:12:51.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="MT22ciXXeSgnquf9SZHp" version="13.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-04-29T00:13:38.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="2OYwgcj6lXhi7XaQadGd" version="13.0.2" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iMfK0LHfcapmzbw0hb2J" name="AWS Plan 2020">
-    <mxGraphModel dx="3438" dy="2184" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6552" dy="3936" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qOT_ua5YANCtFLoSZ7II-0" />
         <mxCell id="qOT_ua5YANCtFLoSZ7II-1" parent="qOT_ua5YANCtFLoSZ7II-0" />
@@ -963,7 +963,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y80GOwCd4w521hAC72gl-35" value="Dolffined AWS CSA - PRO-C01&amp;nbsp;&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
-          <mxGeometry x="-1101" y="-482" width="357" height="56" as="geometry" />
+          <mxGeometry x="-1053" y="-482" width="357" height="56" as="geometry" />
         </mxCell>
         <mxCell id="y80GOwCd4w521hAC72gl-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#B3B3B3;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qOT_ua5YANCtFLoSZ7II-1" source="y80GOwCd4w521hAC72gl-35" target="DwWhc-mIhokDdW1a0Lmv-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -984,10 +984,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rz7VuCBr-Khj1i3cgNat-5" value="AWS CloudFormation&amp;nbsp; Labs" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
-          <mxGeometry x="-1140" y="1162" width="357" height="56" as="geometry" />
+          <mxGeometry x="-1053" y="1162" width="357" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Rz7VuCBr-Khj1i3cgNat-6" value="Serverless Application Development Labs&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="qOT_ua5YANCtFLoSZ7II-1" vertex="1">
-          <mxGeometry x="-1140" y="850" width="357" height="56" as="geometry" />
+          <mxGeometry x="-1053" y="850" width="357" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Rz7VuCBr-Khj1i3cgNat-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#B3B3B3;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="qOT_ua5YANCtFLoSZ7II-1" source="Rz7VuCBr-Khj1i3cgNat-1" target="Rz7VuCBr-Khj1i3cgNat-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1087,6 +1087,7 @@
             <mxPoint x="-2362" y="-1034" as="sourcePoint" />
             <mxPoint x="-2312" y="-1084" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-1208" y="-929" />
               <mxPoint x="-1234" y="-983" />
               <mxPoint x="-1259" y="-785" />
             </Array>
@@ -1420,7 +1421,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-BuBi3CWHwivyxttPEnH-0" value="White Papers" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="qOT_ua5YANCtFLoSZ7II-1">
-          <mxGeometry x="-1157" y="1724" width="357" height="56" as="geometry" />
+          <mxGeometry x="-1053" y="1724" width="357" height="56" as="geometry" />
         </mxCell>
         <mxCell id="-BuBi3CWHwivyxttPEnH-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qOT_ua5YANCtFLoSZ7II-1" source="FfZEtsI1z8z7UaMAHDHJ-0" target="-BuBi3CWHwivyxttPEnH-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1429,7 +1430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-BuBi3CWHwivyxttPEnH-4" value="Re-invent Videos" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="qOT_ua5YANCtFLoSZ7II-1">
-          <mxGeometry x="-1156" y="1857" width="357" height="56" as="geometry" />
+          <mxGeometry x="-1053" y="1857" width="357" height="56" as="geometry" />
         </mxCell>
         <mxCell id="-BuBi3CWHwivyxttPEnH-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qOT_ua5YANCtFLoSZ7II-1" source="FfZEtsI1z8z7UaMAHDHJ-0" target="-BuBi3CWHwivyxttPEnH-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
