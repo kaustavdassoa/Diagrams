@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-02T00:18:24.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Rr6ZTwtDAjf4MlEk9Qcq" version="13.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-02T00:20:05.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="9VhuOLzVs3nfsZ-DlaMD" version="13.0.3" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3438" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -762,8 +762,8 @@
             <mxPoint x="-1455" y="592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZtxxWCjOOAiwGoFfqRPQ-1" value="Transaction Management" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1073" y="281" width="158" height="16" as="geometry" />
+        <mxCell id="ZtxxWCjOOAiwGoFfqRPQ-1" value="Transaction Management Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1090" y="281" width="209" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZtxxWCjOOAiwGoFfqRPQ-2" value="" style="endArrow=classic;html=1;entryX=0.836;entryY=1.325;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;strokeColor=#B3B3B3;" parent="1" source="vkdbx1qyMuLEtI5rxoIV-4" target="ZtxxWCjOOAiwGoFfqRPQ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -807,8 +807,8 @@
             <mxPoint x="-1160" y="1985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NTDHB_hVLGPP4imNn6Yr-1" value="Query Management" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1044" y="257.5" width="158" height="16" as="geometry" />
+        <mxCell id="NTDHB_hVLGPP4imNn6Yr-1" value="Query Management Pattern" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1021" y="259" width="177" height="16" as="geometry" />
         </mxCell>
         <mxCell id="NTDHB_hVLGPP4imNn6Yr-3" value="" style="endArrow=classic;html=1;exitX=0.573;exitY=0.114;exitDx=0;exitDy=0;entryX=0.878;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="vkdbx1qyMuLEtI5rxoIV-4" target="NTDHB_hVLGPP4imNn6Yr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
