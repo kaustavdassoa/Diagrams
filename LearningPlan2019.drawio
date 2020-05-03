@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-03T10:16:42.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="qhMptForb1-_TJPEL9ld" version="13.0.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-03T10:27:40.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="MzP2j7yk7SMDVas0rC6-" version="13.0.5" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3438" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -834,14 +834,17 @@
             <mxPoint x="-1014" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2w898U-kvi_a4c1B8M62-1" value="Oracle Cloud Foundation Fundamentals - Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-817" y="2255" width="330" height="16" as="geometry" />
+        <mxCell id="2w898U-kvi_a4c1B8M62-1" value="Oracle Cloud Infrastructure Fundamentals - Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1262" y="2290" width="330" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="2w898U-kvi_a4c1B8M62-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="sVjUFJfJoezhNWLmcO9O-1" target="2w898U-kvi_a4c1B8M62-1">
+        <mxCell id="2w898U-kvi_a4c1B8M62-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="sVjUFJfJoezhNWLmcO9O-1" target="2w898U-kvi_a4c1B8M62-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-869" y="2409" as="sourcePoint" />
             <mxPoint x="-819" y="2359" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2w898U-kvi_a4c1B8M62-3" value="Compute&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1373" y="2293" width="68" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
