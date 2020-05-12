@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T12:10:02.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="0G_YvcnyWKbX-EfNZh02" version="13.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-12T13:41:35.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="vkMPW7auPz9UoR4tfzbM" version="13.1.0" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="6152" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,7 +257,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iq47JH9IOjm5TBPFm13r-1" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 13px ; white-space: normal&quot;&gt;RPA Developer Foundation Training&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="1642.5" width="231" height="21" as="geometry" />
+          <mxGeometry x="236" y="1666" width="231" height="21" as="geometry" />
         </mxCell>
         <mxCell id="iq47JH9IOjm5TBPFm13r-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="aUbg2GQfj_RAobpnSpw4-3" target="iq47JH9IOjm5TBPFm13r-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -829,7 +829,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2w898U-kvi_a4c1B8M62-1" value="Oracle Cloud Infrastructure &lt;br&gt;Fundamentals - Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-489" y="1660" width="182" height="28" as="geometry" />
+          <mxGeometry x="-490" y="1660" width="182" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2w898U-kvi_a4c1B8M62-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.548;entryY=-0.037;entryDx=0;entryDy=0;strokeColor=#B3B3B3;entryPerimeter=0;" parent="1" source="sVjUFJfJoezhNWLmcO9O-1" target="2w898U-kvi_a4c1B8M62-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -947,6 +947,15 @@
         </mxCell>
         <mxCell id="gBnCQ6mpZS3qBChcD6Sv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pAHObRIGLmC-I-HrzCQr-1" target="pAHObRIGLmC-I-HrzCQr-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBnCQ6mpZS3qBChcD6Sv-12" value="Oracle Cloud Infrastructure &lt;br&gt;&amp;nbsp;- Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-483" y="1866" width="182" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gBnCQ6mpZS3qBChcD6Sv-13" value="" style="endArrow=classic;html=1;exitX=0.548;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="2w898U-kvi_a4c1B8M62-1" target="gBnCQ6mpZS3qBChcD6Sv-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-123" y="1914" as="sourcePoint" />
+            <mxPoint x="-73" y="1864" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
