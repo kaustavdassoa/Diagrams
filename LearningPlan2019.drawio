@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T14:04:36.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="EZCib6DV5ZDG-6wjRubu" version="13.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-18T11:45:57.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="H151w3no0on_UmHTB_gz" version="13.1.1" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="6152" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -954,25 +954,46 @@
             <mxPoint x="-134" y="1947" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-1" value="&lt;span&gt;re:invent2020&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-1" value="&lt;span&gt;re:invent2020&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1297" y="772" width="93" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="_qGjY-r7ES5HyB8qeQ8e-1" target="bv1NyvuxmMBGBJ6wq6O8-1">
+        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="_qGjY-r7ES5HyB8qeQ8e-1" target="bv1NyvuxmMBGBJ6wq6O8-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1330" y="785" as="sourcePoint" />
             <mxPoint x="1380" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-5" value="&lt;span&gt;re:invent2018&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-5" value="&lt;span&gt;re:invent2018&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1343" y="718" width="93" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-10" value="AWS Certified Developer Associate" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-10" value="AWS Certified Developer Associate" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1216.5" y="78" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-11" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-3" target="bv1NyvuxmMBGBJ6wq6O8-10">
+        <mxCell id="bv1NyvuxmMBGBJ6wq6O8-11" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2c924340bb9dbf6c-3" target="bv1NyvuxmMBGBJ6wq6O8-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1174" y="431" as="sourcePoint" />
             <mxPoint x="1224" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKS7bbbeP44rqkCp_72x-1" value="Micorservice Test Patterns" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1246" y="401" width="177" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="YKS7bbbeP44rqkCp_72x-2" value="Consumer Contract Validation" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1547.5" y="354" width="186.5" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="YKS7bbbeP44rqkCp_72x-3" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="YKS7bbbeP44rqkCp_72x-1" target="YKS7bbbeP44rqkCp_72x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1234" y="304" as="sourcePoint" />
+            <mxPoint x="-1202" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YKS7bbbeP44rqkCp_72x-4" value="AWS Security" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="608" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YKS7bbbeP44rqkCp_72x-5" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-11" target="YKS7bbbeP44rqkCp_72x-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268" y="458" as="sourcePoint" />
+            <mxPoint x="318" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
