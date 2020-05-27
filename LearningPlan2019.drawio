@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T13:04:07.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Q8CXUSvSV3ur89WNx4ZI" version="13.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-05-27T04:47:36.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="m0BHn8MUglm2frkCc2Ko" version="13.1.3" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6152" dy="2468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,7 +537,7 @@
             <mxPoint x="483" y="-5.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_LHKmuvoDw8N2ljtgrfE-7" value="&lt;span style=&quot;font-size: 10px&quot;&gt;AWS Compute&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_LHKmuvoDw8N2ljtgrfE-7" value="&lt;span style=&quot;font-size: 10px&quot;&gt;AWS Compute&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="342" y="-142.25" width="140" height="32" as="geometry" />
         </mxCell>
         <mxCell id="_LHKmuvoDw8N2ljtgrfE-8" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" parent="1" source="2c924340bb9dbf6c-14" target="_LHKmuvoDw8N2ljtgrfE-7" edge="1">
@@ -826,7 +826,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2w898U-kvi_a4c1B8M62-1" value="Oracle Cloud Infrastructure &lt;br&gt;Fundamentals - Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-521" y="1743" width="182" height="28" as="geometry" />
+          <mxGeometry x="-522" y="1743" width="182" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2w898U-kvi_a4c1B8M62-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.548;entryY=-0.037;entryDx=0;entryDy=0;strokeColor=#B3B3B3;entryPerimeter=0;" parent="1" source="sVjUFJfJoezhNWLmcO9O-1" target="2w898U-kvi_a4c1B8M62-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -946,7 +946,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBnCQ6mpZS3qBChcD6Sv-12" value="Oracle Cloud Infrastructure &lt;br&gt;&amp;nbsp;- Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="-505.5" y="1937" width="182" height="28" as="geometry" />
+          <mxGeometry x="-518" y="1937" width="182" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gBnCQ6mpZS3qBChcD6Sv-13" value="" style="endArrow=classic;html=1;exitX=0.548;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#B3B3B3;" parent="1" source="2w898U-kvi_a4c1B8M62-1" target="gBnCQ6mpZS3qBChcD6Sv-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
