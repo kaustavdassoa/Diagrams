@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T09:04:38.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="XVV0F9l2gFh0LN-a9daK" version="13.2.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-18T09:41:26.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="6Yuxc1HnO3v9ZnQ2RUJ4" version="13.2.6" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="3038" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1199,10 +1199,10 @@
         <mxCell id="r7I3KUIFZAN5rR6ynzvE-9" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Practice Test 04&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="-275" y="348" width="113" height="19.25" as="geometry" />
         </mxCell>
-        <mxCell id="ldMWv4OPi5chICrK0E_v-4" value="AWS Cloud Best Practice&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="ldMWv4OPi5chICrK0E_v-4" value="AWS Cloud Best Practice&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;strokeColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-18" y="602.5" width="168" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ldMWv4OPi5chICrK0E_v-5" value="AWS CI/CD Practice&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="ldMWv4OPi5chICrK0E_v-5" value="AWS CI/CD Practice&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;strokeColor=#E6E6E6;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-11" y="573.5" width="168" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ldMWv4OPi5chICrK0E_v-6" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2c924340bb9dbf6c-11" target="ldMWv4OPi5chICrK0E_v-4" edge="1">
