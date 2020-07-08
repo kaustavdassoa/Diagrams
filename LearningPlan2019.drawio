@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-08T11:05:52.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uEwBI2KRSCRU5wrDyd2S" version="13.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-07-08T12:41:13.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="juhsQ_39pGhNz39eAU4Y" version="13.4.0" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="2638" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1283,7 +1283,7 @@
         <mxCell id="1Ewj9lDWSOGkNkMc4XV3-1" value="Block Store&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-45.5" y="1680" width="235" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1Ewj9lDWSOGkNkMc4XV3-2" value="File Store&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="1Ewj9lDWSOGkNkMc4XV3-2" value="File Store&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-70.5" y="1702" width="235" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1Ewj9lDWSOGkNkMc4XV3-3" value="Object Store&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
