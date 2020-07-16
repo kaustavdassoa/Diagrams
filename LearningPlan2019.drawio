@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T09:15:18.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="NfILUV5_XvWchDCNma0a" version="13.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-07-16T09:22:00.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="bPnfilPEzb-_-_z4WTsn" version="13.4.4" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="5752" dy="2736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="-1153.5" y="837.75" width="119" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-2" value="JAVA" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=25;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-792.5" y="688.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="-625" y="834.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-3" value="AWS" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=25;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="488.5" y="612" width="97" height="55" as="geometry" />
