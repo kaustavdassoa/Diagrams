@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2020-05-24T04:35:43.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="XdhVInKmYf2qR91ING5_" version="13.1.3" type="github">
+  <diagram id="9_Mjg2vpjdmIixqg7uMG" name="Page-1">
+    <mxGraphModel dx="1438" dy="984" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="66" width="836" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-1" value="AWS Discovery Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="116" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-2" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="387" width="110" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-3" value="AWS Discovery Connector Agentless&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="272" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-4" value="AWS Discovery Connector Agentl&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="463" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-5" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-28.517985611510767" y="387" as="sourcePoint" />
+            <mxPoint x="36" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-6" value="" style="endArrow=classic;html=1;entryX=0.603;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;startArrow=classic;startFill=1;" edge="1" parent="1" target="GpLuanaq3Bwb6WFmYOwU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="68" y="270" as="sourcePoint" />
+            <mxPoint x="123" y="204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png" vertex="1" parent="1">
+          <mxGeometry x="233" y="312" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-10" value="" style="endArrow=none;html=1;strokeWidth=5;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="GpLuanaq3Bwb6WFmYOwU-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="290.2" as="sourcePoint" />
+            <mxPoint x="116" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-11" value="AWS Athena and AWS Quick Sight&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="111" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-12" value="" style="endArrow=classic;html=1;strokeWidth=5;startArrow=classic;startFill=1;" edge="1" parent="1" source="GpLuanaq3Bwb6WFmYOwU-9" target="GpLuanaq3Bwb6WFmYOwU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.19905213270135" y="333" as="sourcePoint" />
+            <mxPoint x="166" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-13" value="AWS Server Migration Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-15" value="" style="endArrow=none;html=1;strokeWidth=5;startArrow=classic;startFill=1;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GpLuanaq3Bwb6WFmYOwU-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="367.1780104712042" as="sourcePoint" />
+            <mxPoint x="90" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-16" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="711" y="379" width="110" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-18" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=5;entryX=0.085;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GpLuanaq3Bwb6WFmYOwU-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-44" y="516" as="sourcePoint" />
+            <mxPoint x="142" y="578" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-59" y="516" />
+              <mxPoint x="327" y="626" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-19" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221" y="286" as="sourcePoint" />
+            <mxPoint x="221" y="-15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-20" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="534" y="288" as="sourcePoint" />
+            <mxPoint x="534" y="-13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-21" value="Data Discovery&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="-31" width="95" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-22" value="Data Exploration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="-31" width="99" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-23" value="Data Migration&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="-29" width="92" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-24" value="Server Migration Tool&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="176" width="172" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="GpLuanaq3Bwb6WFmYOwU-26" value="Database Migration Tool&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="210" width="172" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
