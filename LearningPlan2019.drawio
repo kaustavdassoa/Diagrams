@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T08:11:13.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Safari/537.36" etag="rJ0BMc49A7zvASXbHMwW" version="14.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-02T08:11:38.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Safari/537.36" etag="s8krWQWoY9MlQQatmeAi" version="14.5.3" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="4238" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1528,7 +1528,7 @@
             <mxPoint x="-673" y="985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ah4_BZcfs38ifFRmZfm-3" value="Front End Development&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;opacity=30;fillColor=#FFFF66;fontSize=24;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="9Ah4_BZcfs38ifFRmZfm-3" value="Front End Development&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;opacity=30;fillColor=#FFFF66;fontSize=24;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-899" y="2352" width="202" height="82" as="geometry" />
         </mxCell>
         <mxCell id="9Ah4_BZcfs38ifFRmZfm-4" value="" style="endArrow=classic;html=1;fontSize=18;fontColor=none;strokeColor=#B3B3B3;" parent="1" source="9Ah4_BZcfs38ifFRmZfm-1" target="9Ah4_BZcfs38ifFRmZfm-3" edge="1">
@@ -1537,7 +1537,7 @@
             <mxPoint x="-564" y="2375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ah4_BZcfs38ifFRmZfm-5" value="ReactJS&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#FF0000;gradientColor=none;fontSize=18;fontColor=none;opacity=30;fillColor=#9999FF;" parent="1" vertex="1">
+        <mxCell id="9Ah4_BZcfs38ifFRmZfm-5" value="React&lt;br&gt;JS&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#FF0000;gradientColor=none;fontSize=27;fontColor=none;opacity=30;fillColor=#9999FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-685" y="2476" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9Ah4_BZcfs38ifFRmZfm-6" value="" style="endArrow=classic;html=1;fontSize=18;fontColor=none;strokeColor=#B3B3B3;" parent="1" source="9Ah4_BZcfs38ifFRmZfm-3" target="9Ah4_BZcfs38ifFRmZfm-5" edge="1">
@@ -1558,7 +1558,7 @@
             <mxPoint x="-304" y="2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R2JBZRgl0CPQ3XjI7xHc-4" value="HTML5" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;fontSize=27;opacity=30;fillColor=#f8cecc;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="R2JBZRgl0CPQ3XjI7xHc-4" value="HTML5" style="ellipse;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;fontSize=27;opacity=30;fillColor=#f8cecc;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1247" y="2516" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R2JBZRgl0CPQ3XjI7xHc-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" parent="1" source="9Ah4_BZcfs38ifFRmZfm-3" target="R2JBZRgl0CPQ3XjI7xHc-4" edge="1">
