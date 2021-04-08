@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T14:49:29.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="MQOK6UYIKqMRgCj0XrFs" version="14.5.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-08T03:43:01.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="XE_6tmCyi3dAmo3JjgQI" version="14.5.7" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="4238" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1682,6 +1682,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1446" y="2114" as="sourcePoint" />
             <mxPoint x="-1396" y="2064" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6nr0B3AGj-TKHxXjxROq-1" value="Docker Build using maven script" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1683" y="2100" width="148" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="6nr0B3AGj-TKHxXjxROq-2" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="IdrZcvlaheXcMrAO8YvN-2" target="6nr0B3AGj-TKHxXjxROq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1431" y="2098" as="sourcePoint" />
+            <mxPoint x="-1381" y="2048" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6nr0B3AGj-TKHxXjxROq-3" value="First Sample Application" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-434" y="2585" width="197" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="6nr0B3AGj-TKHxXjxROq-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Ah4_BZcfs38ifFRmZfm-5" target="6nr0B3AGj-TKHxXjxROq-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-605" y="2734" as="sourcePoint" />
+            <mxPoint x="-555" y="2684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
