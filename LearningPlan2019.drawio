@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T05:51:22.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="S_8eMprB4m1UTkcwmKDK" version="14.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-12T22:35:57.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qNXQ9iLTI2GOoCFPvKwz" version="14.5.10" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="4238" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1720,13 +1720,49 @@
             <mxPoint x="-1340" y="2094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FpOIQJpziRO1H0LgvMG-1" value="Docker Serie Discovery" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="6FpOIQJpziRO1H0LgvMG-1" value="Docker Serie Discovery" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1409" y="2161" width="125" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="6FpOIQJpziRO1H0LgvMG-2" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="IdrZcvlaheXcMrAO8YvN-2" target="6FpOIQJpziRO1H0LgvMG-1">
+        <mxCell id="6FpOIQJpziRO1H0LgvMG-2" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;" parent="1" source="IdrZcvlaheXcMrAO8YvN-2" target="6FpOIQJpziRO1H0LgvMG-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1293" y="2109" as="sourcePoint" />
             <mxPoint x="-1243" y="2059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-1" value="CQRS Service" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-2766" y="532" width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-2" value="oAuth 2.0 Security&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-2868" y="567.5" width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-3" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="R2JBZRgl0CPQ3XjI7xHc-13" target="YfqDCnWUNUd4i63YvG6c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2549" y="609" as="sourcePoint" />
+            <mxPoint x="-2499" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-4" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="R2JBZRgl0CPQ3XjI7xHc-13" target="YfqDCnWUNUd4i63YvG6c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2690" y="819" as="sourcePoint" />
+            <mxPoint x="-2640" y="769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-5" value="API Gateway" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-2893" y="607" width="158" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-6" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B3B3B3;" edge="1" parent="1" source="R2JBZRgl0CPQ3XjI7xHc-13" target="YfqDCnWUNUd4i63YvG6c-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2774" y="794" as="sourcePoint" />
+            <mxPoint x="-2724" y="744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-7" value="Docker Container creation" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-2647" y="503" width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YfqDCnWUNUd4i63YvG6c-8" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;entryX=0.58;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R2JBZRgl0CPQ3XjI7xHc-13" target="YfqDCnWUNUd4i63YvG6c-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2426" y="594" as="sourcePoint" />
+            <mxPoint x="-2376" y="544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
