@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T03:30:23.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Zb9YeZfRr6Azr4-IDHk3" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-06T10:53:31.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="TB3UDkunAYKEqXjnGYzy" version="14.7.6" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="12250" dy="5667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1651,7 +1651,7 @@
         <mxCell id="kUZMKCqxpQoz869o_0B5-9" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Spring Integration&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2478" y="1537.5" width="212" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kUZMKCqxpQoz869o_0B5-10" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Spring &lt;br&gt;Testing&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="kUZMKCqxpQoz869o_0B5-10" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Testing&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2175" y="1766.5" width="212" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kUZMKCqxpQoz869o_0B5-11" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2c924340bb9dbf6c-10" target="kUZMKCqxpQoz869o_0B5-9" edge="1">
@@ -1790,6 +1790,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-695" y="2682" as="sourcePoint" />
             <mxPoint x="-645" y="2632" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhwO_sNq0HsjvkgDBAoQ-1" value="Junit 5" style="ellipse;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2404" y="1807" width="102" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="mhwO_sNq0HsjvkgDBAoQ-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="kUZMKCqxpQoz869o_0B5-10" target="mhwO_sNq0HsjvkgDBAoQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2300" y="2014" as="sourcePoint" />
+            <mxPoint x="-2250" y="1964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhwO_sNq0HsjvkgDBAoQ-3" value="Mockito" style="ellipse;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2376" y="1895" width="101" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mhwO_sNq0HsjvkgDBAoQ-4" value="" style="endArrow=classic;html=1;fontSize=23;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUZMKCqxpQoz869o_0B5-10" target="mhwO_sNq0HsjvkgDBAoQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2075" y="1958" as="sourcePoint" />
+            <mxPoint x="-2025" y="1908" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
