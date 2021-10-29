@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T11:37:54.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hSJtWoFehd5m0CcYXt9U" version="15.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-29T11:38:34.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="N7ga_2CF78BOQoo26UAm" version="15.0.3" type="github" pages="4">
   <diagram name="Learning Plan" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="7928" dy="2444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2014,7 +2014,7 @@
         <mxCell id="NJJoNu6NvfgWz7JJH497-6" value="Kafka Event Streaming&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=31;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-4194" y="1865" width="348" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="_ypUg4V3hwuWzPgOawX7-1" value="Chapter 2&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=23;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_ypUg4V3hwuWzPgOawX7-1" value="Chapter 2&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=31;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3592" y="921.75" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ypUg4V3hwuWzPgOawX7-2" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R2JBZRgl0CPQ3XjI7xHc-9" target="_ypUg4V3hwuWzPgOawX7-1">
